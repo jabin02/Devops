@@ -151,6 +151,10 @@ spec:
 - Configured and troubleshooted ALB to expose the application publicly.
 - Application is now accessible via the **ALB DNS URL**.
 
+![Screenshot 2024-12-17 050136](https://github.com/user-attachments/assets/708aba12-140b-422b-bd69-468421135320)
+
+![image](https://github.com/user-attachments/assets/1aa8b23b-0ee8-4087-8426-eeb6f7656801)
+
 ---
 
 **Next Steps:** Transition to the **Stock Prediction App** with enhanced capabilities and updated deployment configurations.
