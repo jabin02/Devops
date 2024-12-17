@@ -1,5 +1,9 @@
 # Game Application Deployment on Amazon EKS
 
+![Screenshot 2024-12-17 160500](https://github.com/user-attachments/assets/39cce916-f19c-46bf-aa86-1a32e3cb0f97)
+
+
+
 ## 1. **Deployment**
 Created a deployment for the **2048 Game App** with 5 replicas:
 
